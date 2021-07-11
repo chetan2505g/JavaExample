@@ -1,7 +1,1 @@
-# JavaTest
-# Create this project to do r&d with GitHub
-# My new branch
-# Feature Branch 2
-
-sdas
-# Riveiw
+# Java example in repository chetan2505g/JavaExample date 11-Jul-2021
