@@ -10,7 +10,7 @@ class Thread1 extends Thread {
 
 	@Override
 	public void run() {
-		System.out.println("Thread 1 is running");
+		//System.out.println("Thread 1 is running");
 		mu.getMultiples(2);
 	}
 
